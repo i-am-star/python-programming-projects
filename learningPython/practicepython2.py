@@ -33,5 +33,5 @@ print(x >= 26 or y < 30)
 
 #NOT OPERATOR
 x = True 
-print(x, not True)
+print(not x)
 
